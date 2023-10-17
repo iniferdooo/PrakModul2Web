@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #4784bd;
+  }
+  .container {
+    margin-top: 30px;
+    max-width: 350px;
+    background-color: #fcfdfcee;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  .form-group {
+    margin-bottom: 25px;
+  }
+  
+  .form-group input[type="text"] {
+    width: 95%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+  }
+  .form-group_alamat textarea {
+    width: 95%;
+    height: 80px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+  }
+  .form-group input[type="submit"] {
+    background-color: #4784bd;
+    margin-top: 10px;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+  }
